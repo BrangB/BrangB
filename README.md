@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brang Tsawm Aung(Brang)</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
-- 🌱 I’m currently learning **React, php, python**
+- 🌱 I’m currently learning **React, node.js, python**
 
 - 👨‍💻 All of my projects are available at [localhost:3000](localhost:3000)
 
